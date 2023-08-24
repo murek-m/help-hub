@@ -1,0 +1,27 @@
+---
+title: "Frequently Asked Questions"
+---
+
+__How do I access the Library in Elumity?__
+The Library is where all your documents and files are stored in Elumity. You can view your available Chapters in the left sidebar, which includes your Library name, Medline access, and unsorted documents. The right sidebar includes metadata info for the file you have in your library, including annotations or quiz questions you have created.
+
+__What types of files can I store in the Elumity Library?__
+The Elumity library supports a wide range of file types, including most image formats, video formats, audio files, Word, PowerPoint, Excel, and PDF. You also have the option to import files from your clipboard or from video hosting sites like YouTube.
+
+__Can I create text documents, spreadsheets, and presentations in Elumity?__
+Yes, you have the option to create text, spreadsheet, and presentation documents in Elumity using the powerful OnlyOffice software. Simply click on the "New" button to start creating your first document. Changes you make to your documents while editing are saved automatically.
+
+__What is Medline and how do I access it in Elumity?__
+Medline is a research document tool that allows you to view and download research papers from the source. In order to access Medline documents in Elumity, you need to download the Elumity Browser extension and log in with your existing Medline account. The extension is available for Google Chrome, Microsoft Edge, Mozilla Firefox, and Safari.
+
+__How do I import documents from Medline into my Elumity Library?__
+To import documents from Medline, you can search for the publication you'd like to import and double-click on the document to open it in the PDF viewer in a new tab. If you'd like to import the document, you can drag and drop it from the search UI into your library or any of your chapters.
+
+__Can I create alerts for keywords in Medline?__
+Yes, you can easily create alerts for keywords in Medline. If new research appears under that keyword, you'll receive a notification in Elumity to take a look at the new publications and potentially improve your current research.
+
+__How do I view and edit annotations in my Elumity Library?__
+To view and edit annotations in your Elumity Library, you can open a document and click on the "Annotations" tab in the right sidebar. This will display a list of all the annotations you have made for that document. You can click on an annotation to view it or use the "Edit" button to make changes to the annotation.
+
+__Can I create quiz questions from my documents in the Elumity Library?__
+Yes, you can create quiz questions from your annotations in Elumity. To do this, you can open a document and click on the "Annotations" tab in the right sidebar. This will display a list of all the annotations you have made for that document. You can click on the "Create Quiz" button inside the three-dot menu of the annotation to turn it into a quiz question.

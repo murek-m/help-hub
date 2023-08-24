@@ -1,0 +1,57 @@
+---
+title: "Top Navigation Bar"
+---
+
+The Top Navigation Bar contains some of the essential functionality to make your Elumity experience as fluid as possible. In this section, we’ll cover most of the functions and how you can fully utilize them in Elumity.
+
+# Switching between modules
+
+Elumity features 3 distinct modules - Library, Cards, and Quiz. All three of them are switchable directly from the top navigation bar.
+
+
+![Elumity top navigation bar.](top-navbar.png)
+
+
+Click on any of the three items on the left side of the Search bar and you’ll be switching between them. Your data will automatically be saved and your chapter tree is shared between the modules, making organization a breeze.
+
+# Search Bar
+
+The Search Bar is one of Elumity’s essential features. Depending on which module or chapter you’re in, it will adapt and allow you to search for files specific to that section.
+
+
+![Elumity main search bar.](search-bar.png)
+
+
+In order to access and use it, simply click on the empty field box of the Search Bar itself and search through your documents.
+
+# Chapter Filter
+
+While the search bar is powerful, its feature set searches through the highlighted chapters or modules. If you want to search through your available Chapters, please use the Chapter Filter Bar which is located right above your Chapter Tree.
+
+![Elumity chapter filter.](chapter-filter.png)
+
+
+# Advanced Search
+
+By default, the Search functionality doesn’t include the content from your PDF files, so it instead only relies on searching through the titles of all individual files as well as reference names.
+
+Clicking on the three-dot menu of the search bar allows you to expand your search, giving you options such as searching the entire text document, matching the whole word, matching the Case as well as doing a fuzzy search.
+
+# Notifications
+
+The first item on the right-hand side of the Top Nav Bar is the Notifications dropdown. This is where your notifications live. After saving your favorite topics in Medline (see 2.5), you’ll receive alerts every time there’s a large enough amount of your favorite topics.
+
+# Feedback
+
+Your Feedback is of absolute importance to us. If you encounter a bug or have a new feature suggestion, please make sure to submit it using the submit Feedback button.
+
+# Help
+
+Using this button, you can access the resources hub. There you’ll find the Elumity Documentation, Frequently Asked Questions, Video Tutorials, Blog, and access to other community resources, such as our Reddit community and more! View x.x to learn more about the resources hub.
+
+# Account Settings
+
+The rightmost icon leads you to a dropdown menu that grants you access to your User Account Settings, as well as options to invite a new user or to log out of Elumity.
+
+We will cover the user settings more in-depth in x.x but in short, these settings include your profile settings, privacy settings, and application settings to make your use of Elumity more personalized.
+
